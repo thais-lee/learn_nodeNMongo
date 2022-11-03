@@ -1,0 +1,22 @@
+{
+  "name": "nodewithmongo",
+  "version": "1.0.0",
+  "description": "boiler plate using mongo with node",
+  "main": "index.js",
+  "repository": "https://github.com/thais-lee/learn_nodeNMongo.git",
+  "author": "Thai Le",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^6.6.0",
+    "helmet": "^6.0.0",
+    "joi": "^17.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "prettier": "^2.7.1"
+  }
+}
